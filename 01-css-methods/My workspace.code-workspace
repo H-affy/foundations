@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Odin-recipes"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../02-class-id-selectors"
+		},
+		{
+			"path": "../03-grouping-selectors"
+		},
+		{
+			"path": "../04-chaining-selectors"
+		},
+		{
+			"path": "../05-descendant-combinator"
+		},
+		{
+			"path": "../06-cascade-fix"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01-css-methods"
+	}
+}
