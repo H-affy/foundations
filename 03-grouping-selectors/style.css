@@ -1,0 +1,12 @@
+.yes{
+    color: white;
+    background-color: black;
+}
+.No{
+    background-color: yellow;
+}
+.yes,
+.No{
+    font-size: 28px;
+    font-family: helvetica, Times New Roman, sans-serif;
+}
